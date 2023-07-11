@@ -93,8 +93,8 @@ const misProductos = [
   },
   {
     id: 10,
-    nombre: "Samsung Folder",
-    precio: 1480,
+    nombre: "Iphone 13",
+    precio: 1280,
     img: "../img/cel_06.jpg",
     idCat: "2",
     stock: "10",
