@@ -93,6 +93,16 @@ const misProductos = [
   },
   {
     id: 10,
+    nombre: "Samsung Folder",
+    precio: 1480,
+    img: "../img/cel_06.jpg",
+    idCat: "2",
+    stock: "10",
+    nombreCat: "Celulares",
+    descripcion: "Celular 06 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  },
+  {
+    id: 11,
     nombre: "Huawei S32",
     precio: 980,
     img: "../img/tablet_01.jpg",
@@ -102,7 +112,7 @@ const misProductos = [
     descripcion: "Tablet 01 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
-    id: 11,
+    id: 12,
     nombre: "Huawei S18",
     precio: 1100,
     img: "../img/tablet_02.jpg",
@@ -112,7 +122,7 @@ const misProductos = [
     descripcion: "Tablet 02 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
-    id: 12,
+    id: 13,
     nombre: "Ipad 11g",
     precio: 1280,
     img: "../img/tablet_03.jpg",
@@ -122,7 +132,7 @@ const misProductos = [
     descripcion: "Tablet 03 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
-    id: 13,
+    id: 14,
     nombre: "Lenovo M3",
     precio: 1100,
     img: "../img/tablet_04.jpg",
